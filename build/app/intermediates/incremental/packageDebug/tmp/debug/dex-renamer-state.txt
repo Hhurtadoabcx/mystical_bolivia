@@ -1,0 +1,4 @@
+#Tue Oct 24 20:59:49 BOT 2023
+base.0=D\:\\Academic\\Univalle\\Semester4\\Mobileprogramming2\\Flutter-dart\\mystical_bolivia\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
