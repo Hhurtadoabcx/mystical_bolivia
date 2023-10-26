@@ -1,12 +1,36 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:mystical_bolivia/login.dart';
 import 'package:mystical_bolivia/signup.dart';
+import 'package:firebase_core/firebase_core.dart';
 
-void main() {
-  runApp(MaterialApp(
-    debugShowCheckedModeBanner: false,
-    home: HomePage(),
-  ));
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  if (kIsWeb) {
+    await Firebase.initializeApp(
+      options: FirebaseOptions(
+        apiKey: "AIzaSyBv8m726dKvnA8veSvMLcyM8cBt3V6vxG0",
+        appId: "1:84792773681:web:36cc5a801834a02c5d9910",
+        messagingSenderId: "84792773681",
+        projectId: "flutter-1b1d7",
+      ),
+    );
+  } else {
+    await Firebase.initializeApp();
+  }
+
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: HomePage(),
+    );
+  }
 }
 
 class HomePage extends StatelessWidget {
@@ -25,10 +49,10 @@ class HomePage extends StatelessWidget {
               Column(
                 children: <Widget>[
                   Text(
-                    "Bienvenido",
+                    "Mystical Bolivia",
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
-                      fontSize: 30,
+                      fontSize: 50,
                     ),
                   ),
                   SizedBox(
@@ -98,7 +122,7 @@ class HomePage extends StatelessWidget {
                           ),
                         );
                       },
-                      color: Color(0xFFFF725E),
+                      color: Color.fromARGB(255, 255, 114, 94),
                       elevation: 0,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(50),

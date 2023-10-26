@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84792773681",
+    "project_id": "flutter-1b1d7",
+    "storage_bucket": "flutter-1b1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84792773681:android:c4ae957b93bb36585d9910",
+        "android_client_info": {
+          "package_name": "com.example.mystical_bolivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQzBsNA3-XFumNzNXXxbDI-XrE06Y9ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

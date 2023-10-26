@@ -1,0 +1,110 @@
+{
+   "checksum": "16210297336cf5030ba0ab5fae1e626f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304298365867056",
+            "date_last_used": "0",
+            "guid": "3223e35d-b20c-4f6f-8c7e-060b0c580a90",
+            "id": "17",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9005&destination=booking&refclickid=webslice1819"
+         }, {
+            "date_added": "13304525275029285",
+            "date_last_used": "0",
+            "guid": "9b58268e-140e-4a1f-b0df-5211ecfda066",
+            "id": "18",
+            "name": "Microsoft PowerPoint - HistoriaDeMicrosoft.ppt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.casdreams.com/cesf/FOC/FO/HistoriaDeMicrosoft.pdf"
+         }, {
+            "date_added": "13342822670851674",
+            "date_last_used": "0",
+            "guid": "fb85b469-4b5a-4122-8b42-0813ebf69084",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13342822670850150",
+            "date_last_used": "0",
+            "guid": "6a7efaad-9cef-4bfd-83dd-e6ba18bf702b",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13342822670845440",
+            "date_last_used": "0",
+            "guid": "e3002a74-2821-4fe3-9769-3c1c295e2b8b",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13342822670438242",
+         "date_last_used": "0",
+         "date_modified": "13342832218633963",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13304298365867056",
+               "date_last_used": "0",
+               "guid": "db2e8d91-e371-47ca-aef4-391618f5aff5",
+               "id": "16",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9005&destination=booking&refclickid=iefav1819"
+            } ],
+            "date_added": "13340835705201313",
+            "date_last_used": "0",
+            "date_modified": "13340835705201313",
+            "guid": "372051fa-8ab2-41dd-b383-ec4513d2ee70",
+            "id": "15",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13342822670438244",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13342822670438245",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBBDrG2LAQAAEgAgASoYaUhsbkRyc28vZTJic0IyMkR3MGZUQT09oAYMEqcBCBESogEKHFgvZFVLODJBYlc0NFFoZkUwblhwV3ltNzRrWT0SJDMyMjNlMzVkLWIyMGMtNGY2Zi04YzdlLTA2MGIwYzU4MGE5MBgAIAAoADDEvrizsjE4ocO4s7IxQKHDuLOyMUocdG5PRFl3Sk0zM2NyK1orNDR6THJZMGE1TGlrPVoeIhxveS8xakl6S0ZoN2tHNmZ2UTdITW1UYVlUUHc9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMGU2MjY5N2UtODhhYi01YjY3LTk5NDItNDJiOThkYzI2MWYyGAAgACgAMKqH8+SwMTjTifPksDFA04nz5LAxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgQEqIBChxObVBZOFBYNTZ5WmYzUEVvendQUDNPb0JFbWM9EiRkYjJlOGQ5MS1lMzcxLTQ3Y2EtYWVmNC0zOTE2MThmNWFmZjUYACAAKAAwwr64s7IxOOjCuLOyMUDowrizsjFKHFpUOEoxaC9jSGlEYlkvVHRoQmJhdWc3OGhQOD1aHiIcVVdjNnQ4VDdDdXY4Z3FRb3pVSXRveGlmYXJVPWUAAAAAEqgBCBISowEKHHFINmtiYy9pdFNSc01XQXlUcmNRMVhqV2VFOD0SJDliNTgyNjhlLTE0MGUtNGExZi1iMGRmLTUyMTFlY2ZkYTA2NhgAIAAoADDDvrizsjE4hcO4s7IxQIXDuLOyMUocbURKSDlJSSt6UVMyWjlVaXNqeEZnQmhSZENFPVofIh23L3ZDM2V0TzVZRFVGMnBxdDN5VncvbGozc0dBPWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGMzMTMyZjljLTlkOTQtNTAyNy1iNjJmLTI3NGJmZDBkMTc4OBgAIAAoADCph/PksDE4t4nz5LAxQLeJ8+SwMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIDxKiAQocRTM4UHdvUjVLVVZESjk1RjFLOExjUGFTQ2h3PRIkMzcyMDUxZmEtOGFiMi00MWRkLWIzODMtZWM0NTEzZDJlZTcwGAAgACgAMMG+uLOyMTjIwrizsjFAyMK4s7IxShxmN25PdXpsRzJPb3lSM3VtQm1xdU5aL2s2RkE9Wh4iHFViUWxsK3lQbDJ1emxObk1mOEV0clJFUHZMST1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRhY2E0MzZkZS0wZjUxLTViNzMtYjMzNy05M2QxYzg3OGYzMzkYACAAKAAwr4fz5LAxOI+K8+SwMUCPivPksDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
