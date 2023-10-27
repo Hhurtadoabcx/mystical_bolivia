@@ -29,6 +29,7 @@ dependencies:
   firebase_core: 2.20.0
   cloud_firestore: 4.12.1
   google_nav_bar: ^5.0.6
+  ionicons: ^0.2.2
   
 
 
@@ -56,6 +57,8 @@ flutter:
     - assets/illustration1.png
     - assets/places/
     - assets/img/
+    - assets/icons/
+    - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
