@@ -122,6 +122,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "google_nav_bar",
+      "rootUri": "file:///C:/Users/Emanuel/AppData/Local/Pub/Cache/hosted/pub.dev/google_nav_bar-5.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "http_parser",
       "rootUri": "file:///C:/Users/Emanuel/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
@@ -230,7 +236,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-10-26T22:25:47.985254Z",
+  "generated": "2023-10-27T02:24:39.016898Z",
   "generator": "pub",
   "generatorVersion": "3.1.4"
 }

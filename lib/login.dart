@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'homepage.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -20,6 +21,10 @@ class _LoginPageState extends State<LoginPage> {
       User? user = userCredential.user;
       if (user != null) {
         print('Inicio de sesión exitoso: ${user.email}');
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => HomePage()),
+        );
       }
     } catch (e) {
       print('Error al iniciar sesión: $e');
